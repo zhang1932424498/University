@@ -16,4 +16,5 @@ M0 ->( M-  M+)
    
 この図は、不変集合とその接続関係によって力学系の長期的な振る舞いを表現したものである。また、この図は Morse Decomposition の基本的な考え方を示している。
   dynamical.py：図を生成するプログラム
+  
   morse_decomposition_2d.png：生成した図
